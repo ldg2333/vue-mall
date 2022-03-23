@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "765558",
+      "name": "提醒",
+      "font_class": "shouye",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "10882661",
+      "name": "折线图",
+      "font_class": "zhexiantu",
+      "unicode": "e8b3",
+      "unicode_decimal": 59571
+    },
+    {
+      "icon_id": "10906701",
+      "name": "管理",
+      "font_class": "guanli",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "12856617",
+      "name": "User",
+      "font_class": "User",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "14653523",
+      "name": "图表 饼图",
+      "font_class": "tubiaobingtu",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "15668893",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e782",
+      "unicode_decimal": 59266
+    },
+    {
+      "icon_id": "19959353",
+      "name": "mima",
+      "font_class": "mima",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    }
+  ]
+}
